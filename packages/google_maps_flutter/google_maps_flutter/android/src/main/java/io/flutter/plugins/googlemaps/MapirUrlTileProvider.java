@@ -1,3 +1,5 @@
+package io.flutter.plugins.googlemaps;
+
 import com.google.android.gms.maps.model.UrlTileProvider;
 import java.net.MalformedURLException;
 import java.net.URL;
